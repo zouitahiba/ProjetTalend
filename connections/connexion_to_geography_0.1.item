@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_WPqDQJ41EeuKHMdppLa1sA" name="connexion_to_geography" id="_S6Sp8J41EeuKHMdppLa1sA" label="connexion_to_geography" dataPackage="_dezxkJ41EeuKHMdppLa1sA _dezxkZ41EeuKHMdppLa1sA _dezxkp41EeuKHMdppLa1sA _dezxk541EeuKHMdppLa1sA _dezxlJ41EeuKHMdppLa1sA _dezxlZ41EeuKHMdppLa1sA _dezxlp41EeuKHMdppLa1sA _dezxl541EeuKHMdppLa1sA _dezxmJ41EeuKHMdppLa1sA _dezxmZ41EeuKHMdppLa1sA _dezxmp41EeuKHMdppLa1sA _dezxm541EeuKHMdppLa1sA _dezxnJ41EeuKHMdppLa1sA" DatabaseType="Oracle with SID" DriverClass="oracle.jdbc.OracleDriver" URL="jdbc:oracle:thin:@LAPTOP-1V12K7CF:1521:XE" dbVersionString="ORACLE_11" Port="1521" Username="ME" Password="enc:system.encryption.key.v1:+u543Dbo6vb26R1Hzoj9UntRNMFti2CyQv7tGSWE" ServerName="LAPTOP-1V12K7CF" SID="XE" SqlSynthax="" StringQuote="" NullChar="" DbmsId="oracle_id" ProductId="ORACLE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_WPqDQZ41EeuKHMdppLa1sA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_WQCdwJ41EeuKHMdppLa1sA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_WQHWQJ41EeuKHMdppLa1sA" tag="Status" value=""/>
+    <taggedValue xmi:id="_WQHWQZ41EeuKHMdppLa1sA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_WQHWQp41EeuKHMdppLa1sA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_WQHWQ541EeuKHMdppLa1sA" tag="Description" value=""/>
+    <taggedValue xmi:id="_WQHWRJ41EeuKHMdppLa1sA" tag="Author" value=""/>
+    <taggedValue xmi:id="_WQHWRZ41EeuKHMdppLa1sA" tag="otherParameter"/>
+    <taggedValue xmi:id="_dQ0Y4J41EeuKHMdppLa1sA" tag="DB ProductName" value="Oracle"/>
+    <taggedValue xmi:id="_dQ0Y4Z41EeuKHMdppLa1sA" tag="DB ProductVersion" value="Oracle Database 11g Express Edition Release 11.2.0.2.0 - Production"/>
+    <taggedValue xmi:id="_dQ0Y4p41EeuKHMdppLa1sA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_WPqDQp41EeuKHMdppLa1sA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxkJ41EeuKHMdppLa1sA" name="ANONYMOUS" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxkZ41EeuKHMdppLa1sA" name="APEX_PUBLIC_USER" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxkp41EeuKHMdppLa1sA" name="APEX_040000" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxk541EeuKHMdppLa1sA" name="CTXSYS" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxlJ41EeuKHMdppLa1sA" name="FLOWS_FILES" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxlZ41EeuKHMdppLa1sA" name="HR" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxlp41EeuKHMdppLa1sA" name="MDSYS" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxl541EeuKHMdppLa1sA" name="ME" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxmJ41EeuKHMdppLa1sA" name="OUTLN" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxmZ41EeuKHMdppLa1sA" name="SYS" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxmp41EeuKHMdppLa1sA" name="SYSTEM" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxm541EeuKHMdppLa1sA" name="XDB" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_dezxnJ41EeuKHMdppLa1sA" name="XS$NULL" dataManager="_WPqDQJ41EeuKHMdppLa1sA"/>
+</xmi:XMI>

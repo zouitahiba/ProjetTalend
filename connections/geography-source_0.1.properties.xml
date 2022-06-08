@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_AfiFQJ15EeuSdq0aTQYC-w" id="_34hzMJ14EeuSdq0aTQYC-w" label="geography-source" version="0.1" statusCode="" item="_AfiFQp15EeuSdq0aTQYC-w" displayName="geography-source">
+    <author href="../../talend.project#_0zHqsJeUEeuYQ_njNrF_mg"/>
+    <additionalProperties xmi:id="_AfxV0J15EeuSdq0aTQYC-w" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_AfxV0Z15EeuSdq0aTQYC-w" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_AfxV0p15EeuSdq0aTQYC-w" key="created_date" value="2021-04-15T00:27:41.485+0100"/>
+    <additionalProperties xmi:id="_AfxV0515EeuSdq0aTQYC-w" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_AfxV1J15EeuSdq0aTQYC-w" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_AfxV1Z15EeuSdq0aTQYC-w" key="modified_date" value="2021-04-15T00:41:02.516+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AfiFQZ15EeuSdq0aTQYC-w" path="" deleted="true"/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_AfiFQp15EeuSdq0aTQYC-w" property="_AfiFQJ15EeuSdq0aTQYC-w" state="_AfiFQZ15EeuSdq0aTQYC-w">
+    <connection href="geography-source_0.1.item#_AfS0sJ15EeuSdq0aTQYC-w"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>
